@@ -3,9 +3,9 @@
 ### About Me
 - 🌱 I’m currently learning Python & DSA 
 - 🤝 Specialized in Linux and Power Bi Developer 
-- 🚀 Check out my projects on [GitHub](https://github.com/V8V88V8V88?tab=repositories) or my [Website](https://v8v88v8v88.com)
+- 🚀 Check out my projects on [GitHub](https://github.com/TechWithIfn/GeniusTestHub) or my [Website](https://elaborate-brioche-7a3847.netlify.app/)
 - 🔭 Focused on low-level systems development and system programming
-- 📫 Contact: mail me v8v88v8v88@protonmail.com or dm me on [Telegram](https://t.me/v8v88v8v88)
+- 📫 Contact: mail me sirfanansari93061@gmail.com or dm me on [Telegram]()
 
 ### Tech Stack:
 
